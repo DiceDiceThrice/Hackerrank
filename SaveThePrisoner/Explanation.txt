@@ -1,0 +1,1 @@
+Solves a circular distribution problem: n prisoners sit in a circle, m candies are distributed starting from prisoner s, and we find who gets the last candy. The formula (s + m - 1) % n calculates the final position using modular arithmetic to handle the circular wraparound. If the result is 0, it means prisoner n (since prisoners are numbered 1 to n, not 0 to n-1).

@@ -1,0 +1,1 @@
+Simulates the growth of a Utopian Tree over n cycles. The tree starts at height 1. During odd cycles (spring), the height doubles. During even cycles (summer), the height increases by 1. It iterates through each cycle from 1 to n, applying the appropriate growth rule.

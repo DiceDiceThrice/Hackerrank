@@ -1,0 +1,1 @@
+Simulates viral advertising spread over n days. Starting with 5 people receiving an ad on day 1, half of recipients (floor division) like it, and each person who likes it shares with 3 friends the next day. It accumulates total likes across all days and calculates the next day's recipients based on previous day's likes.

@@ -1,0 +1,1 @@
+Counts how many times the letter 'a' appears when string s is repeated infinitely and you take the first n characters. Instead of building the repeated string (which would be too large), it calculates: count 'a's in one copy of s, multiply by the number of complete repetitions, then add 'a's from the partial/leftover characters at the end.

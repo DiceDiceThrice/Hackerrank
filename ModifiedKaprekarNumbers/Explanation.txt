@@ -1,0 +1,1 @@
+Finds all Kaprekar numbers in a range [p, q]. A Kaprekar number is one where, when you square it and split the result into two parts (right part has same number of digits as the original number), the sum of these parts equals the original number. It checks each number, splits its square, and validates the Kaprekar property. Prints "INVALID RANGE" if none found.

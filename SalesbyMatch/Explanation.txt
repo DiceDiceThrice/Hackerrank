@@ -1,0 +1,1 @@
+Counts matching pairs of socks by color. It uses a Dictionary to count how many socks of each color exist, then for each color, it calculates pairs by dividing the count by 2 (integer division automatically discards the remainder/odd sock). The total pairs across all colors is returned.

@@ -1,0 +1,1 @@
+Counts how many perfect square integers exist in the range [a, b]. Instead of checking every number, it uses mathematical insight: find the smallest integer whose square is ≥ a (ceiling of √a), and the largest integer whose square is ≤ b (floor of √b). The count of perfect squares is simply the count of integers between these bounds.

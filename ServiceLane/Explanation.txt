@@ -1,0 +1,1 @@
+Solves service lane queries for a highway with varying widths. Given a highway represented as an array of width values (1-3 representing vehicle sizes), and queries asking about segments [i, j], it finds the minimum width in each segment. This minimum determines the largest vehicle that can pass through that entire section.

@@ -1,0 +1,1 @@
+Finds the minimum number of jumps needed to reach the last cloud, avoiding thunderclouds (value 1). You can jump 1 or 2 clouds ahead. The greedy strategy always tries to jump 2 clouds first (if safe), otherwise jumps 1 cloud. This minimizes total jumps because longer jumps are always better when available.

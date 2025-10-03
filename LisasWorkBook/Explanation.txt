@@ -1,0 +1,1 @@
+Counts "special" problems in a workbook where a problem number matches its page number. It simulates creating a workbook where each chapter has a certain number of problems, with at most k problems per page. It tracks the current page number and checks if any problem number equals the page it's on, moving to the next page after k problems or when a chapter ends.

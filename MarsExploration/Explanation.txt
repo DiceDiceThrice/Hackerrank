@@ -1,0 +1,1 @@
+Detects corrupted letters in SOS messages from Mars. The original message should be repeated "SOS" patterns. For each character position, it determines what the expected character should be based on position modulo 3 (positions 0,2 expect 'S', position 1 expects 'O'). It counts how many characters don't match the expected pattern, indicating signal corruption.

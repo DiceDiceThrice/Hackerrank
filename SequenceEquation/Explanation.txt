@@ -1,0 +1,1 @@
+Solves a sequence permutation problem. Given a permutation array p, for each x from 1 to n, it finds y where p[y] = x, then finds z where p[z] = y. It uses a Dictionary to map values to their indices (1-based) for quick lookup, avoiding repeated searches through the array.

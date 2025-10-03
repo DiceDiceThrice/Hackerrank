@@ -1,0 +1,1 @@
+Finds the longest subarray where the absolute difference between any two elements is at most 1. It counts the frequency of each number using a Dictionary, then for each unique number, checks two cases: using only that number, or combining it with the next consecutive number (num+1). Returns the maximum count found.

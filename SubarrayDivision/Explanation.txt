@@ -1,0 +1,1 @@
+Finds how many ways a chocolate bar can be divided to satisfy specific conditions. Given an array of integers on chocolate squares, it counts all contiguous segments of length m whose sum equals d. It uses a sliding window approach: for each possible starting position, it calculates the sum of m consecutive elements and checks if it matches the target day d.

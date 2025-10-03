@@ -1,0 +1,1 @@
+Finds the minimum distance between any two identical elements in an array. It uses a Dictionary to track the last seen index of each value. When encountering a value seen before, it calculates the distance from the previous occurrence and updates the minimum. Returns -1 if no duplicates exist.

@@ -1,0 +1,1 @@
+Calculates how many doses of magic beverage are needed to complete a hurdle race. A character can naturally jump height k, and each beverage dose increases jump height by 1. The code finds the maximum hurdle height in the race. If the max hurdle exceeds the character's natural ability, it returns the difference (doses needed). Otherwise, returns 0 (no beverage needed)

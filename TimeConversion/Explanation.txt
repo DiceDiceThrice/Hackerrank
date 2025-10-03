@@ -1,0 +1,12 @@
+Process:
+
+Extract AM/PM from the end of the input string
+Remove AM/PM to get just the time portion
+Split the time by colons to separate hours, minutes, and seconds
+Convert the hour based on these rules:
+
+AM: If it's 12 AM (midnight), change hour to 0. Otherwise keep as-is
+PM: If it's NOT 12 PM (noon), add 12 to the hour. 12 PM stays as 12
+
+
+Format and return the result with 2-digit hour format

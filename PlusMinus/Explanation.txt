@@ -1,0 +1,1 @@
+Program calculates the ratios of positive, negative, and zero numbers in an integer array. It reads an array from input, iterates through each value to count positives, negatives, and zeros, calculates their respective ratios (as fractions of the array length), and prints each ratio to six decimal places.

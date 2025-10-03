@@ -1,0 +1,1 @@
+Finds the most frequently sighted bird type from IDs 1-5. It counts how many times each bird type appears using an array where the index represents the bird ID. Then it finds the bird type with the highest count, and if there's a tie, it returns the smallest ID (since the loop goes from 1 to 5, the first maximum found will be the smallest ID).

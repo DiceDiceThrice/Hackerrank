@@ -1,0 +1,1 @@
+Calculates all possible total distances when placing n stones with gaps of either a or b between consecutive stones. For n stones, there are n-1 gaps. Each configuration uses some combination of a and b gaps. It generates all possible sums (i gaps of size a, plus (n-1-i) gaps of size b), uses a HashSet to eliminate duplicates, then returns sorted unique values.

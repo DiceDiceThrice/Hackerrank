@@ -1,0 +1,1 @@
+Determines if two kangaroos jumping on a number line will ever land at the same position at the same time. Kangaroo 1 starts at position x1 and jumps v1 meters per jump. Kangaroo 2 starts at x2 and jumps v2 meters. The code checks if they can meet by solving the equation: x1 + v1*t = x2 + v2*t. They meet if the difference in positions is divisible by the difference in velocities.

@@ -1,0 +1,1 @@
+The program reads an array of integers from input. It sums all numbers and finds the smallest and largest element. It subtracts the maximum value (excluding it) from the total sum to get the minimum possible sum, and subtracts the minimum value from the total to get the maximum possible sum (using all but one number).

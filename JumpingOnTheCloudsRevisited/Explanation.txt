@@ -1,0 +1,1 @@
+Simulates jumping on clouds in a circular path. Starting with 100 energy at position 0, you jump k positions at a time in a circular array (wrapping around with modulo). Each jump costs 1 energy, and landing on a thundercloud (value 1) costs an additional 2 energy. The loop continues until you return to position 0, then returns remaining energy.

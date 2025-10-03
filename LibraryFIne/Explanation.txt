@@ -1,0 +1,1 @@
+Calculates library fines for late book returns. The fine structure is hierarchical: 10,000 if returned in a later year, 500 per month if same year but later month, 15 per day if same year and month but later day, and 0 if on time or early. It compares the returned date (d1, m1, y1) with the due date (d2, m2, y2) in order of year, month, then day.
