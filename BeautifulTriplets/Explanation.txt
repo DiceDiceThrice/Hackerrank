@@ -1,0 +1,1 @@
+Counts "beautiful triplets" in an array where elements form an arithmetic sequence with difference d. A triplet (i, j, k) is beautiful if arr[j] - arr[i] = d and arr[k] - arr[j] = d. It uses a frequency map to count occurrences, then for each middle element, checks if elements at distance -d and +d

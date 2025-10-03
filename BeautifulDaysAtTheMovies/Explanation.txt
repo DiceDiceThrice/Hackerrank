@@ -1,0 +1,1 @@
+Counts "beautiful days" in a range from i to j. A day is beautiful if the absolute difference between the day number and its reverse is divisible by k. It iterates through each day, reverses its digits (using a helper function that extracts digits via modulo and division), calculates the absolute difference, and checks divisibility by k.

@@ -1,0 +1,1 @@
+Counts how many digits in a number are divisors of that number. It extracts each digit using modulo 10 and division by 10, then checks if the original number is divisible by that digit. It skips digit 0 to avoid division by zero errors.

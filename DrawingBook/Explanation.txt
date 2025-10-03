@@ -1,0 +1,1 @@
+Finds the minimum number of page turns needed to reach a target page p in a book with n pages. Books open two pages at a time (left and right), so turning from the front means dividing the target page by 2. Turning from the back calculates how many turns from the last page to the target. It returns whichever path requires fewer turns.

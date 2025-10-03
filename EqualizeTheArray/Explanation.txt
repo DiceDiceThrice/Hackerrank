@@ -1,0 +1,1 @@
+Finds the minimum number of deletions needed to make all array elements equal. The optimal strategy is to keep the most frequent element and delete everything else. It counts the frequency of each number using a Dictionary, finds the maximum frequency, then calculates deletions as total elements minus the most frequent count.

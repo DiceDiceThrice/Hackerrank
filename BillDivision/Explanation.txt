@@ -1,0 +1,1 @@
+Calculates if Anna was overcharged when splitting a bill. It sums all items except the one Anna didn't eat (at index k), divides by 2 to get her fair share, and compares it to what Brian charged her (b). If they match, it prints "Bon Appetit". Otherwise, it prints the overcharged amount (difference).

@@ -1,0 +1,1 @@
+Calculates how many video games you can buy with budget s. The first game costs p, and each subsequent game costs d less than the previous one, but prices never drop below minimum m. It simulates buying games sequentially, deducting the current price from the budget and calculating the next price (reduced by d but capped at m), until budget runs out.

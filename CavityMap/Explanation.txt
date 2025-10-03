@@ -1,0 +1,1 @@
+Identifies "cavities" in a grid map where a cavity is a cell (not on the border) whose depth value is greater than all four adjacent cells (up, down, left, right). It converts the string grid to a 2D char array for modification, checks each non-border cell against its neighbors, replaces cavities with 'X', then converts back to strings.

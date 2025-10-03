@@ -1,0 +1,1 @@
+Simulates cutting sticks repeatedly. In each iteration, it cuts all sticks by the length of the shortest stick and discards sticks that become length 0. Instead of actually cutting, it sorts the array once and uses an index to skip over sticks of the same (smallest) length. Each iteration records how many sticks remain before cutting.

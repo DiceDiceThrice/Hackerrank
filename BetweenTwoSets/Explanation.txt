@@ -1,0 +1,1 @@
+Finds numbers that are "between" two arrays: all elements of array a must be factors of the number (the number is divisible by all elements in a), and the number must be a factor of all elements in array b (all elements in b are divisible by the number). It checks every integer from the maximum of a to the minimum of b and counts how many satisfy both conditions

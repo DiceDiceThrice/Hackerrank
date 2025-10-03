@@ -1,0 +1,1 @@
+Counts the number of words in a camelCase string. In camelCase, words are concatenated without spaces, and each new word (except the first) starts with an uppercase letter. It starts with a count of 1 (for the first word) and increments the count for each uppercase letter found, since each uppercase marks the beginning of a new word.

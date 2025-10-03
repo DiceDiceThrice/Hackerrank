@@ -1,0 +1,1 @@
+Finds the maximum amount that can be spent buying one keyboard and one USB drive without exceeding budget b. It checks all possible combinations of keyboards and drives using nested loops, calculates the total cost for each pair, and tracks the highest cost that stays within budget. Returns -1 if no valid combination exists.

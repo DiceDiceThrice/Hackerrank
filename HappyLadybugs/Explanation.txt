@@ -1,0 +1,1 @@
+Determines if ladybugs can be made happy (each has at least one same-colored neighbor). It handles three cases: 1) No ladybugs (always YES), 2) Has empty cells - check if all colors have ≥2 ladybugs (can rearrange them), 3) No empty cells - check if current arrangement already has all ladybugs adjacent to same color. Uses frequency counting and adjacency checking.

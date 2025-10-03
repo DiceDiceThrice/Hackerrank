@@ -1,0 +1,1 @@
+Finds the best two-person ACM team based on combined topic knowledge. Each person's knowledge is represented as a binary string (1 = knows topic, 0 = doesn't). For all possible pairs, it counts topics known by at least one member (bitwise OR logic). It tracks the maximum topics any team knows and counts how many teams achieve that maximum.

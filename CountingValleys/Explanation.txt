@@ -1,0 +1,1 @@
+Counts how many valleys a hiker traverses. A valley is defined as a sequence of steps below sea level. It tracks altitude changes (U increases, D decreases) and uses a flag to detect when entering a valley (going below sea level) and exiting it (returning to sea level). Each complete valley (enter and exit) increments the counter.

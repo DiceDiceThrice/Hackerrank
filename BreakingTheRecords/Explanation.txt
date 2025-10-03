@@ -1,0 +1,1 @@
+Tracks how many times a player breaks their highest and lowest score records throughout a series of games. It initializes both max and min records with the first game's score, then iterates through subsequent games. Each time a score exceeds the current max record or falls below the min record, it increments the respective counter and updates that record.

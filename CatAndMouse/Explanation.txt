@@ -1,0 +1,1 @@
+Determines which cat catches a mouse first, or if the mouse escapes. Two cats (A at position x, B at position y) and a mouse (at position z) are on a line. It calculates the absolute distance from each cat to the mouse. The cat with the shorter distance catches the mouse. If distances are equal, the mouse escapes.
