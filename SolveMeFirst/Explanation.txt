@@ -1,5 +1,0 @@
-The flow starts by reading the first number (a) from the user.
-The second number (b) is then read.
-The flow then calls a function, solveMeFirst(a, b), to compute the sum of a and b.
-The computed sum is printed.
-The process ends.
