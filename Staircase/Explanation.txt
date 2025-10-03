@@ -1,0 +1,1 @@
+Prints out a right-aligned staircase of size n using spaces and hash (#) symbols by reading an integer n from user input. For each row from 1 to n, it first prints the necessary (n-i) spaces to align right. Then it prints i hash (#) symbols to form the staircase step. Moves to the next line after each row.
