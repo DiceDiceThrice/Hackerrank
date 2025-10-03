@@ -1,0 +1,6 @@
+The program starts.
+It reads how many numbers to add (n).
+It reads n numbers and stores them in an array.
+It adds all the numbers together with a function.
+The total sum is printed.
+The program ends.
