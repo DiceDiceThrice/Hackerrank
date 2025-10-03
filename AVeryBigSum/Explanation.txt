@@ -1,1 +1,0 @@
-This C# program reads an integer n and a list of n integers from the console. It sums all values in the list using aVeryBigSum, which safely handles large sums using the long type.
